@@ -9,6 +9,13 @@ body{
   text-align: center;
   margin: 2em 0;
 }
+h1{
+  font-size: 3em;
+  color: #333;
+}
+p{
+  color: #777;
+}
 
 .chart-container{
   text-align: center;

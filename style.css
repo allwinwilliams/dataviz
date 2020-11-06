@@ -20,8 +20,5 @@ p{
 
 .chart-container{
   text-align: center;
-}
-
-.chart-container img{
-  width: 75%;
+  margin: 5em auto;
 }

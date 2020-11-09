@@ -2,18 +2,19 @@ body{
   margin: 0;
   padding: 0;
   background-color: #000;
+  font-family: 'Montserrat', sans-serif;
 }
-*{
-  font-family: sans-serif;
-}
+
 .title{
   text-align: center;
   margin: 2em 0;
 }
+
 h1{
   font-size: 3em;
   color: #fff;
 }
+
 p{
   color: #777;
 }
